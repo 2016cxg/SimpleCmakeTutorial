@@ -1,0 +1,3 @@
+/media/cheng/WRK/Backup/2019/CmakeTutorial/build/CMakeFiles/edit_cache.dir
+/media/cheng/WRK/Backup/2019/CmakeTutorial/build/CMakeFiles/rebuild_cache.dir
+/media/cheng/WRK/Backup/2019/CmakeTutorial/build/CMakeFiles/hello.dir

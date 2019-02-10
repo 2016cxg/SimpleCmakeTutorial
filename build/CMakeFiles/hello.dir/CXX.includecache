@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/include/HelloClass.h
+string
+-
+
+/media/cheng/WRK/Backup/2019/CmakeTutorial/src/main.cpp
+HelloClass.h
+/media/cheng/WRK/Backup/2019/CmakeTutorial/src/HelloClass.h
+

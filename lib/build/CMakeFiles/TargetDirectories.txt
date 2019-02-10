@@ -1,0 +1,7 @@
+/media/cheng/WRK/Backup/2019/CmakeTutorial/lib/build/CMakeFiles/install.dir
+/media/cheng/WRK/Backup/2019/CmakeTutorial/lib/build/CMakeFiles/list_install_components.dir
+/media/cheng/WRK/Backup/2019/CmakeTutorial/lib/build/CMakeFiles/rebuild_cache.dir
+/media/cheng/WRK/Backup/2019/CmakeTutorial/lib/build/CMakeFiles/hello.dir
+/media/cheng/WRK/Backup/2019/CmakeTutorial/lib/build/CMakeFiles/install/strip.dir
+/media/cheng/WRK/Backup/2019/CmakeTutorial/lib/build/CMakeFiles/install/local.dir
+/media/cheng/WRK/Backup/2019/CmakeTutorial/lib/build/CMakeFiles/edit_cache.dir
