@@ -8,4 +8,4 @@ This is a simple tutorial of cmake command in linux
 - run binary target file "hello", using command ./hello 
 
 # More details, please check out references
-[References]()
+[References](https://blog.csdn.net/qq_33785671/article/details/86925707)
